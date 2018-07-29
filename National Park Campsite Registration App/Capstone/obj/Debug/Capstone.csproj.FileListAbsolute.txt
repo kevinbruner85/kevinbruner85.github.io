@@ -1,0 +1,35 @@
+C:\Workspace\team\team5-c-week6-pair-exercises\capstone\Capstone\obj\Debug\Capstone.csprojAssemblyReference.cache
+C:\Workspace\team\team5-c-week6-pair-exercises\capstone\Capstone\obj\Debug\Capstone.csproj.CoreCompileInputs.cache
+C:\Workspace\team\team5-c-week6-pair-exercises\capstone\Capstone\bin\Debug\Capstone.exe.config
+C:\Workspace\team\team5-c-week6-pair-exercises\capstone\Capstone\bin\Debug\Capstone.exe
+C:\Workspace\team\team5-c-week6-pair-exercises\capstone\Capstone\bin\Debug\Capstone.pdb
+C:\Workspace\team\team5-c-week6-pair-exercises\capstone\Capstone\obj\Debug\Capstone.exe
+C:\Workspace\team\team5-c-week6-pair-exercises\capstone\Capstone\obj\Debug\Capstone.pdb
+C:\Users\Kevin\Desktop\team\team5-c-week6-pair-exercises\capstone\Capstone\bin\Debug\Capstone.exe.config
+C:\Users\Kevin\Desktop\team\team5-c-week6-pair-exercises\capstone\Capstone\bin\Debug\Capstone.exe
+C:\Users\Kevin\Desktop\team\team5-c-week6-pair-exercises\capstone\Capstone\bin\Debug\Capstone.pdb
+C:\Users\Kevin\Desktop\team\team5-c-week6-pair-exercises\capstone\Capstone\obj\Debug\Capstone.csprojAssemblyReference.cache
+C:\Users\Kevin\Desktop\team\team5-c-week6-pair-exercises\capstone\Capstone\obj\Debug\Capstone.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Desktop\team\team5-c-week6-pair-exercises\capstone\Capstone\obj\Debug\Capstone.exe
+C:\Users\Kevin\Desktop\team\team5-c-week6-pair-exercises\capstone\Capstone\obj\Debug\Capstone.pdb
+C:\Users\Kevin Bruner\Desktop\team\team5-c-week6-pair-exercises\capstone\Capstone\bin\Debug\Capstone.exe.config
+C:\Users\Kevin Bruner\Desktop\team\team5-c-week6-pair-exercises\capstone\Capstone\bin\Debug\Capstone.exe
+C:\Users\Kevin Bruner\Desktop\team\team5-c-week6-pair-exercises\capstone\Capstone\bin\Debug\Capstone.pdb
+C:\Users\Kevin Bruner\Desktop\team\team5-c-week6-pair-exercises\capstone\Capstone\obj\Debug\Capstone.csprojAssemblyReference.cache
+C:\Users\Kevin Bruner\Desktop\team\team5-c-week6-pair-exercises\capstone\Capstone\obj\Debug\Capstone.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Bruner\Desktop\team\team5-c-week6-pair-exercises\capstone\Capstone\obj\Debug\Capstone.exe
+C:\Users\Kevin Bruner\Desktop\team\team5-c-week6-pair-exercises\capstone\Capstone\obj\Debug\Capstone.pdb
+C:\Workspace\team\team5-c-week6-pair-exercises\Capstone\bin\Debug\Capstone.exe.config
+C:\Workspace\team\team5-c-week6-pair-exercises\Capstone\bin\Debug\Capstone.exe
+C:\Workspace\team\team5-c-week6-pair-exercises\Capstone\bin\Debug\Capstone.pdb
+C:\Workspace\team\team5-c-week6-pair-exercises\Capstone\obj\Debug\Capstone.csprojAssemblyReference.cache
+C:\Workspace\team\team5-c-week6-pair-exercises\Capstone\obj\Debug\Capstone.csproj.CoreCompileInputs.cache
+C:\Workspace\team\team5-c-week6-pair-exercises\Capstone\obj\Debug\Capstone.exe
+C:\Workspace\team\team5-c-week6-pair-exercises\Capstone\obj\Debug\Capstone.pdb
+C:\Users\Kevin\Documents\Exercises\team5-c-week6-pair-exercises\Capstone\bin\Debug\Capstone.exe.config
+C:\Users\Kevin\Documents\Exercises\team5-c-week6-pair-exercises\Capstone\bin\Debug\Capstone.exe
+C:\Users\Kevin\Documents\Exercises\team5-c-week6-pair-exercises\Capstone\bin\Debug\Capstone.pdb
+C:\Users\Kevin\Documents\Exercises\team5-c-week6-pair-exercises\Capstone\obj\Debug\Capstone.csprojAssemblyReference.cache
+C:\Users\Kevin\Documents\Exercises\team5-c-week6-pair-exercises\Capstone\obj\Debug\Capstone.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\Documents\Exercises\team5-c-week6-pair-exercises\Capstone\obj\Debug\Capstone.exe
+C:\Users\Kevin\Documents\Exercises\team5-c-week6-pair-exercises\Capstone\obj\Debug\Capstone.pdb
